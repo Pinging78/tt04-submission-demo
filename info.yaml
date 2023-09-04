@@ -24,7 +24,7 @@ documentation:
   author:       "Josue Marcelo Castillo Acosta, Kaylee Michelle Diaz Rodriguez, Juliana Hernandez Hernandez"      # Your name
   title:        "BCD to 7 segments"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "a count of switch to binary using logic gates"      # Short description of what your project does
+  description:  "un decodificador de binario a decimal"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: emplea una funcion logica para que mediante un numero binario salga el numero en el display 
